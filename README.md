@@ -1,2 +1,1 @@
-# homebrew-projectM-musikcube
-projectM plugin for musikcube
+projectM visualizer plugin for musikbox
