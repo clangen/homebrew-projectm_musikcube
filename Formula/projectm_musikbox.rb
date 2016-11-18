@@ -4,7 +4,7 @@ class ProjectmMusikbox < Formula
     homepage 'http://musikcube.com'
     head 'git://github.com/clangen/projectM-musikcube.git'
     url 'https://github.com/clangen/projectM-musikcube/archive/0.2.0.tar.gz'
-    sha256 'b18b934a9e414961902092ee865a6d78e8badffb7b770ed3eef1acf3dc3f438e'
+    sha256 '307ee5c29ea317cdd16c97ce732cc8e9b2a8599b83ecfe8259c17ba2cbf465cf'
     version '0.2.0'
 
     depends_on 'cmake' => :build
