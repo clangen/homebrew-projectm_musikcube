@@ -3,9 +3,9 @@ require 'formula'
 class ProjectmMusikbox < Formula
     homepage 'http://musikcube.com'
     head 'git://github.com/clangen/projectM-musikcube.git'
-    url 'https://github.com/clangen/projectM-musikcube/archive/0.3.1.tar.gz'
-    sha256 '1ea8d69c24cce1a7f1c16765e934fc2b57e0eb8c4de9480af24e0f2cff122f34'
-    version '0.3.1'
+    url 'https://github.com/clangen/projectM-musikcube/archive/0.4.0.tar.gz'
+    sha256 '0ead99d09339eda662d57498e0278e579af90bee97ed9ed2b1620d9c0bfaa77c'
+    version '0.4.0'
 
     depends_on 'cmake' => :build
     depends_on 'musikbox'
