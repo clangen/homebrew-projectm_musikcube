@@ -8,7 +8,7 @@ class ProjectmMusikbox < Formula
     version '0.4.7'
 
     depends_on 'cmake' => :build
-    depends_on 'musikbox'
+    depends_on 'musikcube'
     depends_on 'glew'
     depends_on 'freetype'
     depends_on 'ftgl'
