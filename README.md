@@ -1,1 +1,1 @@
-projectM visualizer plugin for musikbox
+projectM visualizer plugin for musikcube
